@@ -1,0 +1,13 @@
+/usr/kbos/bin:/usr/local/bin:/usr/jbin:/usr/bin:/usr/sas/bin
+/usr/local/sbin:/sbin:/bin/:/usr/sbin:/usr/bin:/opt/omni/bin:
+/opt/omni/lbin:/opt/omni/sbin:/root/bin
+jeff1134@gmail.com
+
+
+hoffer34@yahoo.com
+
+11/Aug/2025 some log
+12/Aug/2025 some log
+13/Aug/2025 some log
+14/Aug/2025 some log
+
